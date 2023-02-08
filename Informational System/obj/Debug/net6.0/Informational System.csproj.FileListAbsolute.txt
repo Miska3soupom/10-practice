@@ -1,0 +1,15 @@
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\bin\Debug\net6.0\Informational System.exe
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\bin\Debug\net6.0\Informational System.deps.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\bin\Debug\net6.0\Informational System.runtimeconfig.json
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\bin\Debug\net6.0\Informational System.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\bin\Debug\net6.0\Informational System.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.csproj.AssemblyReference.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.AssemblyInfoInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.AssemblyInfo.cs
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.csproj.CoreCompileInputs.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\refint\Informational System.dll
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.pdb
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\Informational System.genruntimeconfig.cache
+C:\Users\misha\OneDrive\Рабочий стол\работа\Informational System\Informational System\obj\Debug\net6.0\ref\Informational System.dll
