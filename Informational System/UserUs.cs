@@ -19,7 +19,7 @@ namespace Informational_System
             while (true)
             {
                 Console.SetCursorPosition(0, 0);
-                Console.WriteLine("Добро пожаловать в магазин" + Program.auth);
+                Console.WriteLine("Добро пожаловать в магазин, " + Program.auth);
                 Console.WriteLine("Выберите категорию продуктов: ");
                 select = 2;
                 foreach (string item in Magazine.Protocole)
@@ -62,8 +62,10 @@ namespace Informational_System
                         Print();
                         break;
                     case ConsoleKey.Escape:
+                        Console.Clear();
                         Console.WriteLine("Вы не купили ничего интересного(\nXДо свидания!");
-                        break;
+                        Thread.Sleep(2500);
+                        return;
                 }
             }
         }
@@ -100,6 +102,7 @@ namespace Informational_System
 
                         break;
                     case ConsoleKey.Escape:
+                        Console.Clear();
                         return; 
                     case ConsoleKey.Enter:
                         break;

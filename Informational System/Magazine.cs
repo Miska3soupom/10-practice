@@ -32,11 +32,11 @@ namespace Informational_System
                 for (int i =1; i < prod.Count; i++)
                 {
                     Console.SetCursorPosition(30, i);
-                    Console.WriteLine(item.price);
+                    Console.WriteLine(item.price.ToString());
                     Console.SetCursorPosition(15, i);
-                    Console.WriteLine(item.amount);
+                    Console.WriteLine(item.amount.ToString());
                     Console.SetCursorPosition(3, i);
-                    Console.WriteLine(item.name);
+                    Console.WriteLine(item.name.ToString());
                 }
             }
         }
@@ -50,11 +50,11 @@ namespace Informational_System
                 for (int i = 1; i < prod.Count; i++)
                 {
                     Console.SetCursorPosition(30, i);
-                    Console.WriteLine(item.price);
+                    Console.WriteLine(item.price.ToString());
                     Console.SetCursorPosition(15, i);
-                    Console.WriteLine(item.amount);
+                    Console.WriteLine(item.amount.ToString());
                     Console.SetCursorPosition(3, i);
-                    Console.WriteLine(item.name);
+                    Console.WriteLine(item.name.ToString());
                 }
             }
         }
@@ -68,11 +68,11 @@ namespace Informational_System
                 for (int i = 1; i < prod.Count; i++)
                 {
                     Console.SetCursorPosition(30, i);
-                    Console.WriteLine(item.price);
+                    Console.WriteLine(item.price.ToString());
                     Console.SetCursorPosition(15, i);
-                    Console.WriteLine(item.amount);
+                    Console.WriteLine(item.amount.ToString());
                     Console.SetCursorPosition(3, i);
-                    Console.WriteLine(item.name);
+                    Console.WriteLine(item.name.ToString());
                 }
             }
         }
