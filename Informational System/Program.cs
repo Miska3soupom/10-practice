@@ -32,12 +32,23 @@ namespace Informational_System
                 while (true)
                 {
                     var info = Console.ReadKey(true);
-                    if (info.Key == ConsoleKey.Enter)
+                    switch (info.Key)
+                    {
+                        case ConsoleKey.Enter:
+                            break;
+                        case ConsoleKey.Backspace:
+                            Console.SetCursorPosition(password.Length - 1, 3);
+                            Console.Write(" ");
+                            break;
+                        default:
+                            password += info.KeyChar;
+                            Console.Write('*');
+                            break;
+                    }
+                    if(info.Key == ConsoleKey.Enter)
                     {
                         break;
                     }
-                    password += info.KeyChar;
-                    Console.Write('*');
                 }
                 Console.WriteLine();
                 foreach (var user in users)
