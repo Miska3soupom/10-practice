@@ -39,6 +39,7 @@ namespace Informational_System
                         case ConsoleKey.Backspace:
                             Console.SetCursorPosition(password.Length - 1, 3);
                             Console.Write(" ");
+                            password = password.Remove(1);
                             break;
                         default:
                             password += info.KeyChar;
